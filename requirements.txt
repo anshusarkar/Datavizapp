@@ -16,7 +16,7 @@ jsonschema-specifications
 markdown-it-py 
 MarkupSafe 
 mdurl 
-mkl-service==2.4.0
+mkl-service
 mkl_fft 
 mkl_random
 numexpr
