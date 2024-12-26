@@ -50,4 +50,4 @@ def main():
             st.error(f"Error reading or processing file: {e}")
 
 if __name__ == "__main__":
-    main()
+    main() 
